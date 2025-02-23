@@ -3,8 +3,8 @@
 ##
 
 - 🌱 Estudando: HTML 5, CSS e Javascript, pelo curso Full Stack Javascript do Leonardo Scorza, e Python no Curso de Python do Luiz Otávio Miranda
-- 📚 No momento estou O Hobbit.
-- 🎥 Filmes favoritos: Teoria de tudo, Radioactive e Série Star Wars.
+- 📚 No momento estou lendo Morte no Buraco Negro.
+- 🎥 Filmes favoritos: Teoria de tudo, Interestelar e Série Star Wars.
 
 ##
 
